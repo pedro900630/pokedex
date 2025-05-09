@@ -28,6 +28,9 @@ docker-compose up -d
 * Nest
 
 
-TESTTT
+## Production Build
+1.- Create the file `env.prod`.
+2.- Create the new image `docker-compose -f docker-compose.prod.yaml --env-file .env.prod up --build`
+
 
 
