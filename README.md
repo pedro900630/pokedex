@@ -27,6 +27,7 @@ docker-compose up -d
 * MongoDB
 * Nest
 
+TEST
 
 ## Production Build
 1.- Create the file `env.prod`.
